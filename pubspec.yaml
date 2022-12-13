@@ -17,6 +17,7 @@ dependencies:
   flutter_local_notifications: ^12.0.4
   flutter_riverpod: ^2.1.1
   go_router: ^5.2.1
+  folivora_logger: ^0.0.1
 
 dev_dependencies:
   flutter_test:
@@ -29,6 +30,8 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+    - "assets/images/"
 
 
 flutter_icons:
